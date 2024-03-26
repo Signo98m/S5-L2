@@ -1,0 +1,12 @@
+Query utilizzate su Ultimate Guard
+site:
+rphonebook:
+bphonebook:
+site: -
+intitle:index of
+Da queste query ho trovato numeri di telefono del servizio clienti di vari paesei.
+Ho trovato varie inserzioni, sotto domini e pagine singole e ripeitive dei vari link
+presenti nella principale.
+
+ 
+
